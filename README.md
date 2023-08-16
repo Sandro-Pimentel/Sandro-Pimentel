@@ -13,6 +13,7 @@
   <li> Flask </li>
   <li> SQL </li>
   <li> MySQL Workbench </li>
+  <li> JavaScript </li>
 </ul>
 
 <h3> 📫 Como me encontrar: </h3>
