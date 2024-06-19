@@ -31,7 +31,11 @@
 
 <h3>  Principais repositórios: </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=afazeres)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=afazeres)](https://github.com/Sandro-Pimentel/afazeres)
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=cardapio)](https://github.com/Sandro-Pimentel/cardapio)
 
 <br>
 
