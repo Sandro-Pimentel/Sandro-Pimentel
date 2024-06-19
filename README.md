@@ -9,11 +9,16 @@
 
 <h3> 💻 Linguagens mais utilizadas em projetos: </h3>
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Pimentel&hide=html)](https://github.com/Sandro-Pimentel/github-readme-stats)
 
 <br>
 
 <h3> ⚙ Tenho experiência com: </h3>
+
+<br>
+
 <ul>
   <li> HTML </li>
   <li> CSS </li>
@@ -31,6 +36,8 @@
 
 <h3>  Principais repositórios: </h3>
 
+<br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=afazeres)](https://github.com/Sandro-Pimentel/afazeres)
 
 <br>
@@ -40,6 +47,9 @@
 <br>
 
 <h3> 📫 Como me encontrar: </h3>
+
+<br>
+
 <ul>
   <li> 📧 Email - sandro.pimentel.junior@gmail.com </li>
   <li> 📄 LinkedIn - https://www.linkedin.com/in/sandro-roberto-pimentel-junior-1287a3254/ </li>
