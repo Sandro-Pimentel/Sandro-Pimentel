@@ -3,7 +3,7 @@
 <br>
 
 <p> Meu nome é Sandro, sou um desenvolvedor atualmente cursando Análise e Desenvolmento de Sistemas na Fatec de São José dos Campos. </p>
-<p> 📚 Atualmente estou estudando tecnologias para páginas web, como HTML, CSS, Javascript, React e Typescript e para o backend como Java e Python. </p>
+<p> 📚 Atualmente estou estudando tecnologias para projetos web, como HTML, CSS, Javascript, React e Vite e para o backend como Java, Python e Typescript. </p>
 
 <br>
 
@@ -30,6 +30,7 @@
   <li> Java </li>
   <li> Typescript </li>
   <li> React </li>
+  <li> Vite </li>
 </ul>
 
 <br>
