@@ -26,6 +26,8 @@
   <li> Flask </li>
   <li> SQL </li>
   <li> MySQL Workbench </li>
+  <li> Postgres </li>
+  <li> MongoDB </li>
   <li> JavaScript </li>
   <li> Java </li>
   <li> Typescript </li>
