@@ -2,8 +2,8 @@
 
 <br>
 
-<p align="center"> Meu nome é Sandro, sou um desenvolvedor atualmente cursando Análise e Desenvolmento de Sistemas na Fatec de São José dos Campos. </p>
-<p align="justify"> 📚 Atualmente estou estudando tecnologias para projetos web, como React e React-Native e para o backend como Java, Python e Typescript e utilizando SGBDs como MySQL, PostgreSQL e MongoDB 📚</p>
+<p align="center"> Meu nome é Sandro, sou um desenvolvedor atualmente cursando <b>Análise e Desenvolmento de Sistemas</b> na Fatec de São José dos Campos. </p>
+<p align="justify"> 📚 Atualmente estou estudando tecnologias para projetos web, como React e React-Native, para o backend como Java, Python e Typescript e utilizando SGBDs como MySQL, PostgreSQL e MongoDB 📚</p>
 
 <br>
 
