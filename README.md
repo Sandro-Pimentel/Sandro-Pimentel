@@ -2,50 +2,46 @@
 
 <br>
 
-<p> Meu nome é Sandro, sou um desenvolvedor atualmente cursando Análise e Desenvolmento de Sistemas na Fatec de São José dos Campos. </p>
-<p> 📚 Atualmente estou estudando tecnologias para projetos web, como HTML, CSS, Javascript, React e Vite e para o backend como Java, Python e Typescript. </p>
+<p align="center"> Meu nome é Sandro, sou um desenvolvedor atualmente cursando Análise e Desenvolmento de Sistemas na Fatec de São José dos Campos. </p>
+<p align="justify"> 📚 Atualmente estou estudando tecnologias para projetos web, como React e React-Native e para o backend como Java, Python e Typescript e utilizando SGBDs como MySQL, PostgreSQL e MongoDB 📚</p>
 
 <br>
 
-<h3> 💻 Linguagens mais utilizadas em projetos: </h3>
+<h3 align="center"> 💻 Linguagens mais utilizadas em projetos 💻 </h3>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Pimentel&hide=html)](https://github.com/Sandro-Pimentel/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandro-Pimentel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Pimentel&layout=compact&theme=radical&langs_count=8&hide=html,css,shell" />
+</div>
 
 <br>
 
-<h3> ⚙ Tenho experiência com: </h3>
+<h3 align="center"> ⚙ Tenho experiência com ⚙ </h3>
 
 <br>
 
-<ul>
-  <li> HTML </li>
-  <li> CSS </li>
-  <li> Python </li>
-  <li> Flask </li>
-  <li> SQL </li>
-  <li> MySQL Workbench </li>
-  <li> Postgres </li>
-  <li> MongoDB </li>
-  <li> JavaScript </li>
-  <li> Java </li>
-  <li> Typescript </li>
-  <li> React </li>
-  <li> Vite </li>
-</ul>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" width="50"/>
+</div>
 
 <br>
 
-<h3>  Principais repositórios: </h3>
+<h3 align="center">  Principais repositórios: </h3>
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=afazeres)](https://github.com/Sandro-Pimentel/afazeres)
+<div align="center">
+  <a href="https://github.com/joao-eduardo17/tabelas-de-campeonatos"> <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-eduardo17&repo=tabelas-de-campeonatos&theme=radical&description_lines_count=2" width="400em" /> </a>
+    <a href="https://github.com/Sandro-Pimentel/afazeres"> <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=afazeres&theme=radical&description_lines_count=2" width="400em"/> </a>
+  <a href="https://github.com/Sandro-Pimentel/conexao-bd-site"> <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=conexao-bd-site&theme=radical&description_lines_count=2" width="400em"/> </a>
+    <a href="https://github.com/Sandro-Pimentel/cardapio"> <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=cardapio&theme=radical&description_lines_count=2" width="400em"/> </a>
+</div>
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=cardapio)](https://github.com/Sandro-Pimentel/cardapio)
+##
 
 <br>
 
