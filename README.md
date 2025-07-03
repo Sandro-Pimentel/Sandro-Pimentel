@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandro-Pimentel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandro-Pimentel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Pimentel&layout=compact&theme=radical&langs_count=8&hide=html,css,shell" />
 </div>
 
@@ -35,7 +35,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/joao-eduardo17/tabelas-de-campeonatos"> <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=joao-eduardo17&repo=tabelas-de-campeonatos&theme=radical&description_lines_count=2" width="400em" /> </a>
+  <a href="https://github.com/Suricato-Conquistador/CampSim"> <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Suricato-Conquistador&repo=CampSim&theme=radical&description_lines_count=2" width="400em" /> </a>
     <a href="https://github.com/Sandro-Pimentel/afazeres"> <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=afazeres&theme=radical&description_lines_count=2" width="400em"/> </a>
   <a href="https://github.com/Sandro-Pimentel/conexao-bd-site"> <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=conexao-bd-site&theme=radical&description_lines_count=2" width="400em"/> </a>
     <a href="https://github.com/Sandro-Pimentel/cardapio"> <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Pimentel&repo=cardapio&theme=radical&description_lines_count=2" width="400em"/> </a>
