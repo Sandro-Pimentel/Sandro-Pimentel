@@ -2,8 +2,8 @@
 
 <br>
 
-<p align="center"> Meu nome é Sandro, sou um desenvolvedor atualmente cursando <b>Análise e Desenvolmento de Sistemas</b> na Fatec de São José dos Campos. </p>
-<p align="justify"> 📚 Atualmente estou estudando tecnologias para projetos web, como React e React-Native, para o backend como Java, Python e Typescript e utilizando SGBDs como MySQL, PostgreSQL e MongoDB 📚</p>
+<p align="center"> Meu nome é Sandro, sou um desenvolvedor atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na Fatec de São José dos Campos. </p>
+<p align="justify"> 📚 Atualmente estudo tecnologias para desenvolvimento web e mobile, como React e React Native. No backend, tenho estudado Java, Python e TypeScript, utilizando bancos de dados como MySQL, PostgreSQL e MongoDB 📚</p>
 
 <br>
 
@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandro-Pimentel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandro-Pimentel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Pimentel&layout=compact&theme=radical&langs_count=8&hide=html,css,shell" />
 </div>
 
@@ -47,11 +47,7 @@
 
 <br>
 
-<h3> 📫 Como me encontrar: </h3>
+### 📫 Como me encontrar
 
-<br>
-
-<ul>
-  <li> 📧 Email - sandro.pimentel.junior@gmail.com </li>
-  <li> 📄 LinkedIn - https://www.linkedin.com/in/sandro-roberto-pimentel-junior-1287a3254/ </li>
-</ul>
+- 📧 [E-mail](mailto:sandro.pimentel.junior@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sandro-roberto-pimentel-junior-1287a3254/)
